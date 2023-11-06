@@ -184,3 +184,20 @@ series_idで示される各シリーズについて、そのシリーズで発�
 - リポジトリ作成
 - [🕐To Sleep or Not to Sleep? Deep EDA Dive ⚪⚫](https://www.kaggle.com/code/gvyshnya/to-sleep-or-not-to-sleep-deep-eda-dive)を日本語訳して内容把握
   - kg-nb_zzz_EDA_001として作成
+
+### 20231105
+
+- kg-nb_zzz_EDA_001を参照
+  - 欠損値がTrain_seriesは無し
+  - 欠損値がtrain_evemtにはそこそこある（特にeventt
+
+### 20231106
+
+- [このノートブック](https://www.kaggle.com/code/tubotubo/cmi-submit)がリーダーボード破棄した模様
+  - あまりにもSCOREがかけ離れているため、現実的なNotebookをまずは写経
+- [Detect Sleep States - Inference](https://www.kaggle.com/code/itsuki9180/detect-sleep-states-inference)
+  - NB上位の本コードを参照する
+  - 「Interface」「DataPreparation」「Training」の三本立て
+  - PyTorchでRNNを使用している？
+  - 下記の通りそれぞれNote作成
+  - ![NOTE_zzzs](https://github.com/fmoch/kaggle-Child-Mind-Institute_Detect-Sleep-States/assets/116940479/a1ac8a7b-d683-4ef4-bf7b-aaf98393d39d)
