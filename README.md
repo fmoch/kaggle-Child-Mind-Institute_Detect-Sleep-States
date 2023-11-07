@@ -201,3 +201,8 @@ series_idで示される各シリーズについて、そのシリーズで発�
   - PyTorchでRNNを使用している？
   - 下記の通りそれぞれNote作成
   - ![NOTE_zzzs](https://github.com/fmoch/kaggle-Child-Mind-Institute_Detect-Sleep-States/assets/116940479/a1ac8a7b-d683-4ef4-bf7b-aaf98393d39d)
+
+### 20231107
+- 引き続きDataprepare内容確認中
+- Pandasで実行しており、実行速度が遅い
+  - 問題ないようであればPolarsに書き換えたい
