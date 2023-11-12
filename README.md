@@ -223,3 +223,11 @@ series_idで示される各シリーズについて、そのシリーズで発�
 - Prepareパートの実行時間が元の物の３倍？
   - ガウス関数の式がミスってた。修正して再度実行中
 - trainパート作成中
+
+### 20231012
+
+- Trainコード確認中
+  - 損失関数はFocalLossを使用
+    - 極端に不均衡なデータセットに対抗する手段
+  - ちなみに損失関数は以下のノートにまとめられている
+  - [Loss Function Library - Keras & PyTorch](https://www.kaggle.com/code/bigironsphere/loss-function-library-keras-pytorch)
